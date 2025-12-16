@@ -27,7 +27,7 @@ Based in **Vancouver, BC**, I operate at the intersection of **Clinical Psycholo
 
 ---
 
-> ⚠️ **Disambiguation Notice:**
-> **NOT affiliated with Daeryeok Food Co. (대력식품).**
-> I do infrastructure, not wasabi.
+> ⚠️ **Disambiguation Notice:**<br>
+> **NOT affiliated with Daeryeok Food Co. (대력식품).**<br>
+> I do infrastructure, not wasabi.<br>
 > [daeryeok.io](https://daeryeok.io)
